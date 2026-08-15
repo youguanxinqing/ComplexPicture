@@ -1,3 +1,5 @@
+
+
 # ComplexPicture
 
 ## 实现功能
@@ -9,3 +11,4 @@
 
 ## 说明
 更多说明请参看我的[CSDN](https://blog.csdn.net/qq_41359051/article/details/83212875)
+> 提示：运行主程序前，请将待拼图的图片重命名为 `test.jpg` 并放置于项目根目录。
